@@ -16,7 +16,7 @@ In that project we used 3 csv files:
 * new_york_city.csv
 * chicago.csv
 
-You could download them [here](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip)
+You could download them [**here**](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip)
 
 ### Requirements
 This program was written in Python (version 3.7.1) and relies on the following libraries:
