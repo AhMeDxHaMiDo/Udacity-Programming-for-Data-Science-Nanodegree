@@ -1,10 +1,10 @@
-# Udacity-programming-for-Data-Science-using-Python-Nanodegree
+# Udacity-Programming-for-Data-Science-using-Python-Nanodegree
+
+## Project 2
+**Explore US Bikeshare Data**
 
 ### Date created
 5/8/2020
-
-### Project Title
-Exploring US Bikesharing System.
 
 ### Description
 In that project I made some statstical exploration on the dataset of the Bikesharing sustem for 3 states, Chicago, New York City, Washington
