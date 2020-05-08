@@ -1,7 +1,7 @@
 # Udacity-Programming-for-Data-Science-using-Python-Nanodegree
 
 ## Project 2
-**Explore US Bikeshare Data**
+**Explore US Bikeshare System**
 
 ### Date created
 5/8/2020
